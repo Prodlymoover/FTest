@@ -1,2 +1,4 @@
-Guid,AccountId,Comments,ContactId,Description,IsEscalated,Origin,Priority,Reason,Status,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,Type
-f4f3e7ec-81ac-4bc7-952a-699847fef4ad,faaf3de7-906d-4396-be6a-5cd71aa6b797,"#N/A",40dc13fe-ccbe-451f-aefb-bf3b66e18641,Test,false,Email,Medium,User didn't attend training,New,Test,"#N/A","#N/A","#N/A","#N/A",Problem
+Guid,Comments,ContactId,Description,IsEscalated,Origin,Priority,Reason,Status,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,TVA_CFB__Cloud_File_Name__c,TVA_CFB__Cloud_File_Size__c,Type,test_create_missing__c
+6a8afb54-0b74-4f8f-b446-02f985b25f87,"#N/A",c1f6242d-8066-49b7-84a0-d2d199fb714d,"#N/A",false,Web,Low,Feedback,New,Maintenance guidelines for generator unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other,"#N/A"
+723ffb2f-440d-47a0-9b72-8959ed6babb8,"#N/A",c1f6242d-8066-49b7-84a0-d2d199fb714d,"#N/A",false,Phone,Low,Feedback,Closed,Generator assembly instructions unclear,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Other,"#N/A"
+fa85d302-8e9b-4bdc-8cbe-2e7ee6791d07,"#N/A",c1f6242d-8066-49b7-84a0-d2d199fb714d,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
